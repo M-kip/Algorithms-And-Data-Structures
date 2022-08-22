@@ -11,3 +11,4 @@ The repository contains examples from the above book
 | ---- | ----------- |
 | ArrayStack.py | Implementation of a array based stack |
 | Asymptotic.py | Implements an algorithm to find the biggest element in a list / array |
+| factorial.py | Python implementation of the mathematical factorial |
